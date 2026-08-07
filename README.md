@@ -1,2 +1,2 @@
 # wealth-of-knowledge
-Everything I have learned in college.
+An Obsidian vault of everything I have learned in college.
