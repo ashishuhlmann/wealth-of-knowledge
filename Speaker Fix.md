@@ -34,7 +34,7 @@ sudo dmesg | grep -i sof
 ```
 - Check if the firmware or topology file is missing in `user/lib/firmware`.
 
-3. Go to the [sof-bin](https://github.com/thesofproject/sof-bin.git), and download the missing topology files. Add them to the locations above.
+3. Go to the [sof-bin](https://github.com/thesofproject/sof-bin.git), and download the missing topology files. Add them to the locations above. Sometimes, the filenames from the sof-bin repository don't quite match. Just find the closest one and rename it to whatever the terminal output was.
 
 4. Restart the computer.
 
