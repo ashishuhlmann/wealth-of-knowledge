@@ -12,3 +12,4 @@ The positions, velocities, and accelerations of objects should be invariant over
 3. Compute the all the components of the forces that act in each basis direction of the chosen coordinate system, substituting for any unknowns if applicable.
 4. Apply any constraints of the system and reduce the equations. Then, equate the force components with the given acceleration formulas for the chosen coordinate system.
 5. Arrive at the equations of motion.
+## [[2 Polar Basis]]
