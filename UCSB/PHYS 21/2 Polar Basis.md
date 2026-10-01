@@ -164,7 +164,7 @@ g\sin{\theta}+\frac{F_{T}}{m}=r\dot{\theta}^{2} \\
 $$
 5. The equation of motion, is therefore
 $$
-r\ddot{\theta}+g\sin{(\theta)}=0 \\
+r\ddot{\theta}+g\cos{(\theta)}=0 \\
 $$
 6. We can also solve for the magnitude of the tension force $F_{T}$.
 $$
