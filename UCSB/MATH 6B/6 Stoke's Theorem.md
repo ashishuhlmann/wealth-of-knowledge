@@ -11,6 +11,7 @@ $$
 - looking from the tip of the normal vectors to the surface, the boundary should be oriented counterclockwise
 - An **orientation** of a surface $S\in\mathbb{R}^{3}$ is a continuous choice of unit normal vector as $p$ varies over $S$.
 - If the surface is closed, there is no boundary curve and the integral is zero.
+- In a case where $\textbf{F}$ has a singularity, the theorem no longer applies.
 ### Example
 
 Let
